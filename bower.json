@@ -1,0 +1,13 @@
+{
+  "name": "heritagefields",
+  "description": "Outdoor Clothes",
+  "main": "index.js",
+  "authors": [
+    "Andrei Spanu"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aspdesign/heritagefields",
+  "devDependencies": {
+    "foundation-sites": "^6.3.1"
+  }
+}
