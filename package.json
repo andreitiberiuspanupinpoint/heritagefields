@@ -18,6 +18,7 @@
   "homepage": "https://github.com/aspdesign/heritagefields#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-dest": "^0.2.3",
     "gulp-file-sync": "^1.0.7",
     "gulp-livereload": "^3.8.1",
     "gulp-sass": "^3.1.0"
