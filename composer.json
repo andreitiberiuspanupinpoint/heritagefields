@@ -1,0 +1,14 @@
+{
+    "name": "andreispanu/heritagefields",
+    "description": "Outdoor Clothes",
+    "authors": [
+        {
+            "name": "andrei spanu design",
+            "email": "andrei_spanu@yahoo.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "vendor-dir": "vendor/composer"
+    }
+}
