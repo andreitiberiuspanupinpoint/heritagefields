@@ -1,0 +1,12 @@
+# Build specific files & folders
+
+.idea/
+http/
+node_modules/
+vendor/
+
+# Imported vendor modules
+skin/frontend/heritagefields/default/js/vendor
+
+#Compiled code
+skin/frontend/heritagefields/default/css/styles.css
