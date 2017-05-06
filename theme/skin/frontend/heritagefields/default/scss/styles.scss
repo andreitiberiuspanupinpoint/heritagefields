@@ -1,0 +1,12 @@
+@import 'settings/settings';
+@import 'foundation';
+
+@include foundation-everything;
+
+body {
+
+  background-color: black;
+  color: blue;
+  font-size: 13px;
+
+}
